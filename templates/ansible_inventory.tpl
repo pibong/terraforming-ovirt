@@ -1,0 +1,2 @@
+[nodes]
+${ovirt_vms}
